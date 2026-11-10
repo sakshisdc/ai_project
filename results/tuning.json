@@ -1,0 +1,16 @@
+{
+  "C": {
+    "swing_threshold": 0.35,
+    "max_ext": 2
+  },
+  "D": {
+    "threshold": 0.7,
+    "max_ext": 1
+  },
+  "VOC": {
+    "lam": 0.0002,
+    "n_samples": 32,
+    "k_root": 1,
+    "stop": false
+  }
+}
